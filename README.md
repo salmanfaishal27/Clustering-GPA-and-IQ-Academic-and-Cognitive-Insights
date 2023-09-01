@@ -15,11 +15,11 @@ Welcome to the "Clustering GPA and IQ: Academic and Cognitive Insights" project,
 
 The primary goal of this project is to cluster students based on their GPA and IQ scores to gain a deeper understanding of academic and cognitive trends. By doing so, we aim to achieve the following objectives:
 
-> Identify Student Profiles: Discover distinct groups of students with similar academic and cognitive profiles. These clusters may reveal common characteristics or trends among students.
+- Identify Student Profiles: Discover distinct groups of students with similar academic and cognitive profiles. These clusters may reveal common characteristics or trends among students.
 
-> Analyze Academic Performance: Determine whether there are clusters of students with significantly different academic performances, shedding light on variations in GPA.
+- Analyze Academic Performance: Determine whether there are clusters of students with significantly different academic performances, shedding light on variations in GPA.
 
-> Explore Cognitive Patterns: Investigate whether clusters exhibit variations in IQ scores, offering insights into cognitive diversity among students.
+- Explore Cognitive Patterns: Investigate whether clusters exhibit variations in IQ scores, offering insights into cognitive diversity among students.
 
 ## Dataset:
 
